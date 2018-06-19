@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e10e5d47e3410bd4f98d639a62a44d0d
+timeCreated: 1527843332
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ADZongYi-A001
+  fontNames:
+  - ADZongYi-A001
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

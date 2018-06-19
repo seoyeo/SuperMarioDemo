@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: 5a61dc44c8d93554abe4593e13471720
+timeCreated: 1526892345
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Super Mario-Backgrounds_0
+    21300002: Super Mario-Backgrounds_1
+    21300004: Super Mario-Backgrounds_2
+    21300006: Super Mario-Backgrounds_3
+    21300008: Super Mario-Backgrounds_4
+    21300010: Super Mario-Backgrounds_5
+    21300012: Super Mario-Backgrounds_6
+    21300014: Super Mario-Backgrounds_7
+    21300016: Super Mario-Backgrounds_8
+    21300018: Super Mario-Backgrounds_9
+    21300020: Super Mario-Backgrounds_10
+    21300022: Super Mario-Backgrounds_11
+    21300024: Super Mario-Backgrounds_12
+    21300026: Super Mario-Backgrounds_13
+    21300028: Super Mario-Backgrounds_14
+    21300030: Super Mario-Backgrounds_15
+    21300032: Super Mario-Backgrounds_16
+    21300034: Super Mario-Backgrounds_17
+    21300036: Super Mario-Backgrounds_18
+    21300038: Super Mario-Backgrounds_19
+    21300040: Super Mario-Backgrounds_20
+    21300042: Super Mario-Backgrounds_21
+    21300044: Super Mario-Backgrounds_22
+    21300046: Super Mario-Backgrounds_23
+    21300048: Super Mario-Backgrounds_24
+    21300050: Super Mario-Backgrounds_25
+    21300052: Super Mario-Backgrounds_26
+    21300054: Super Mario-Backgrounds_27
+    21300056: Super Mario-Backgrounds_28
+    21300058: Super Mario-Backgrounds_29
+    21300060: Super Mario-Backgrounds_30
+    21300062: Super Mario-Backgrounds_31
+    21300064: Super Mario-Backgrounds_32
+    21300066: Super Mario-Backgrounds_33
+    21300068: Super Mario-Backgrounds_34
+    21300070: Super Mario-Backgrounds_35
+    21300072: Super Mario-Backgrounds_36
+    21300074: Super Mario-Backgrounds_37
+    21300076: Super Mario-Backgrounds_38
+    21300078: Super Mario-Backgrounds_39
+    21300080: Super Mario-Backgrounds_40
+    21300082: Super Mario-Backgrounds_41
+    21300084: Super Mario-Backgrounds_42
+    21300086: Super Mario-Backgrounds_43
+    21300088: Super Mario-Backgrounds_44
+    21300090: Super Mario-Backgrounds_45
+    21300092: Super Mario-Backgrounds_46
+    21300094: Super Mario-Backgrounds_47
+    21300096: Super Mario-Backgrounds_48
+    21300098: Super Mario-Backgrounds_49
+    21300100: Super Mario-Backgrounds_50
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 177
+        width: 256
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 481
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 481
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 481
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 481
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 481
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 460
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 460
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 460
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 460
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 460
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 439
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 439
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 439
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 439
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_24
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 439
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_25
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 439
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_26
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 439
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 439
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 390
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_36
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 390
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_37
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 390
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_38
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 390
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_40
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 390
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 341
+        width: 123
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 341
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 178
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_45
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 68
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_46
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 39
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_47
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Super Mario-Backgrounds_50
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -395.5, y: -75}
+      - {x: -398.5, y: -89}
+      - {x: -398.5, y: -229}
+      - {x: -394.5, y: -249}
+      - {x: -220.5, y: -249}
+      - {x: -217.5, y: -222}
+      - {x: -217.5, y: -121}
+      - {x: -228.5, y: -75}
+    - - {x: -216.5, y: -233}
+      - {x: -195.5, y: -248}
+      - {x: -187.5, y: -249}
+      - {x: -171.5, y: -249}
+      - {x: -171.5, y: -213}
+      - {x: -187.5, y: -213}
+      - {x: -216.5, y: -222}
+    - - {x: -170.5, y: -243}
+      - {x: -164.5, y: -249}
+      - {x: -127.5, y: -249}
+      - {x: -127.5, y: -213}
+      - {x: -139.5, y: -213}
+      - {x: -170.5, y: -228}
+    - - {x: -111.5, y: -227}
+      - {x: -126.5, y: -240}
+      - {x: -125.5, y: -243}
+      - {x: -100.5, y: -249}
+      - {x: -83.5, y: -249}
+      - {x: -83.5, y: -215}
+      - {x: -84.5, y: -213}
+      - {x: -94.5, y: -213}
+    - - {x: -41.5, y: -213}
+      - {x: -51.5, y: -213}
+      - {x: -82.5, y: -234}
+      - {x: -82.5, y: -238}
+      - {x: -77.5, y: -243}
+      - {x: -49.5, y: -249}
+      - {x: -39.5, y: -249}
+      - {x: -39.5, y: -214}
+    - - {x: -216.5, y: -184}
+      - {x: -216.5, y: -207}
+      - {x: -215.5, y: -211}
+      - {x: -214.5, y: -212}
+      - {x: -169.5, y: -212}
+      - {x: -168.5, y: -205}
+      - {x: -168.5, y: -184}
+    - - {x: -210.5, y: -174}
+      - {x: -212.5, y: -176}
+      - {x: -212.5, y: -181}
+      - {x: -210.5, y: -183}
+      - {x: -204.5, y: -183}
+      - {x: -202.5, y: -181}
+      - {x: -202.5, y: -176}
+      - {x: -204.5, y: -174}
+    - - {x: -210.5, y: -155}
+      - {x: -216.5, y: -161}
+      - {x: -216.5, y: -167}
+      - {x: -210.5, y: -173}
+      - {x: -204.5, y: -173}
+      - {x: -198.5, y: -167}
+      - {x: -198.5, y: -161}
+      - {x: -204.5, y: -155}
+    - - {x: -398.5, y: 249}
+      - {x: -398.5, y: -74}
+      - {x: -139.5, y: -74}
+      - {x: -139.5, y: 248}
+      - {x: -140.5, y: 249}
+    - - {x: 40.5, y: 249}
+      - {x: 39.5, y: 248}
+      - {x: 39.5, y: -74}
+      - {x: 299.5, y: -74}
+      - {x: 299.5, y: 248}
+      - {x: 298.5, y: 249}
+    - - {x: -97.5, y: 138}
+      - {x: -138.5, y: 123}
+      - {x: -138.5, y: 93}
+      - {x: -134.5, y: 90}
+      - {x: -15.5, y: 90}
+      - {x: -11.5, y: 93}
+      - {x: -11.5, y: 116}
+      - {x: -37.5, y: 138}
+    - - {x: 15.5, y: 120}
+      - {x: -8.5, y: 120}
+      - {x: -10.5, y: 114}
+      - {x: -10.5, y: 91}
+      - {x: -4.5, y: 90}
+      - {x: 22.5, y: 90}
+      - {x: 25.5, y: 94}
+      - {x: 25.5, y: 108}
+    - - {x: -125.5, y: 174}
+      - {x: -138.5, y: 165}
+      - {x: -138.5, y: 150}
+      - {x: -133.5, y: 139}
+      - {x: -108.5, y: 139}
+      - {x: -107.5, y: 148}
+      - {x: -107.5, y: 172}
+      - {x: -113.5, y: 174}
+    - - {x: -102.5, y: 171}
+      - {x: -106.5, y: 168}
+      - {x: -106.5, y: 141}
+      - {x: -105.5, y: 139}
+      - {x: -83.5, y: 139}
+      - {x: -72.5, y: 143}
+      - {x: -72.5, y: 159}
+      - {x: -86.5, y: 171}
+    - - {x: -67.5, y: 163}
+      - {x: -71.5, y: 156}
+      - {x: -71.5, y: 139}
+      - {x: -35.5, y: 139}
+      - {x: -35.5, y: 162}
+      - {x: -39.5, y: 163}
+    - - {x: -34.5, y: 165}
+      - {x: -34.5, y: 141}
+      - {x: -31.5, y: 139}
+      - {x: 0.5, y: 139}
+      - {x: 1.5, y: 144}
+      - {x: 1.5, y: 162}
+      - {x: -4.5, y: 165}
+    - - {x: 7.5, y: 155}
+      - {x: 2.5, y: 147}
+      - {x: 2.5, y: 140}
+      - {x: 3.5, y: 139}
+      - {x: 38.5, y: 139}
+      - {x: 38.5, y: 149}
+      - {x: 32.5, y: 155}
+    - - {x: 302.5, y: 187}
+      - {x: 300.5, y: 185}
+      - {x: 300.5, y: 153}
+      - {x: 302.5, y: 151}
+      - {x: 334.5, y: 151}
+      - {x: 336.5, y: 153}
+      - {x: 336.5, y: 185}
+      - {x: 334.5, y: 187}
+    - - {x: 338.5, y: 166}
+      - {x: 337.5, y: 164}
+      - {x: 337.5, y: 155}
+      - {x: 340.5, y: 154}
+      - {x: 354.5, y: 155}
+      - {x: 357.5, y: 156}
+      - {x: 357.5, y: 163}
+      - {x: 356.5, y: 166}
+    - - {x: 339.5, y: 187}
+      - {x: 337.5, y: 185}
+      - {x: 337.5, y: 169}
+      - {x: 339.5, y: 167}
+      - {x: 355.5, y: 167}
+      - {x: 357.5, y: 169}
+      - {x: 357.5, y: 185}
+      - {x: 355.5, y: 187}
+    - - {x: 360.5, y: 187}
+      - {x: 358.5, y: 185}
+      - {x: 358.5, y: 169}
+      - {x: 360.5, y: 167}
+      - {x: 376.5, y: 167}
+      - {x: 378.5, y: 169}
+      - {x: 378.5, y: 185}
+      - {x: 376.5, y: 187}
+    - - {x: -136.5, y: 187}
+      - {x: -138.5, y: 184}
+      - {x: -138.5, y: 178}
+      - {x: -135.5, y: 175}
+      - {x: -119.5, y: 175}
+      - {x: -118.5, y: 178}
+      - {x: -118.5, y: 186}
+      - {x: -119.5, y: 187}
+    - - {x: -136.5, y: 208}
+      - {x: -138.5, y: 206}
+      - {x: -138.5, y: 190}
+      - {x: -136.5, y: 188}
+      - {x: -120.5, y: 188}
+      - {x: -118.5, y: 190}
+      - {x: -118.5, y: 206}
+      - {x: -120.5, y: 208}
+    - - {x: -114.5, y: 208}
+      - {x: -117.5, y: 205}
+      - {x: -117.5, y: 191}
+      - {x: -114.5, y: 188}
+      - {x: -100.5, y: 188}
+      - {x: -97.5, y: 191}
+      - {x: -97.5, y: 205}
+      - {x: -100.5, y: 208}
+    - - {x: -94.5, y: 208}
+      - {x: -96.5, y: 206}
+      - {x: -96.5, y: 190}
+      - {x: -94.5, y: 188}
+      - {x: -78.5, y: 188}
+      - {x: -76.5, y: 190}
+      - {x: -76.5, y: 206}
+      - {x: -78.5, y: 208}
+    - - {x: -72.5, y: 208}
+      - {x: -75.5, y: 205}
+      - {x: -75.5, y: 191}
+      - {x: -72.5, y: 188}
+      - {x: -58.5, y: 188}
+      - {x: -55.5, y: 191}
+      - {x: -55.5, y: 205}
+      - {x: -58.5, y: 208}
+    - - {x: -54.5, y: 208}
+      - {x: -54.5, y: 188}
+      - {x: -34.5, y: 188}
+      - {x: -34.5, y: 208}
+    - - {x: -31.5, y: 208}
+      - {x: -33.5, y: 206}
+      - {x: -33.5, y: 190}
+      - {x: -31.5, y: 188}
+      - {x: -15.5, y: 188}
+      - {x: -13.5, y: 190}
+      - {x: -13.5, y: 206}
+      - {x: -15.5, y: 208}
+    - - {x: -9.5, y: 208}
+      - {x: -12.5, y: 205}
+      - {x: -12.5, y: 191}
+      - {x: -9.5, y: 188}
+      - {x: 4.5, y: 188}
+      - {x: 7.5, y: 191}
+      - {x: 7.5, y: 205}
+      - {x: 4.5, y: 208}
+    - - {x: 11.5, y: 208}
+      - {x: 8.5, y: 205}
+      - {x: 8.5, y: 191}
+      - {x: 11.5, y: 188}
+      - {x: 25.5, y: 188}
+      - {x: 28.5, y: 191}
+      - {x: 28.5, y: 205}
+      - {x: 25.5, y: 208}
+    - - {x: 301.5, y: 208}
+      - {x: 301.5, y: 206}
+      - {x: 300.5, y: 190}
+      - {x: 302.5, y: 188}
+      - {x: 318.5, y: 188}
+      - {x: 320.5, y: 190}
+      - {x: 320.5, y: 208}
+    - - {x: 323.5, y: 208}
+      - {x: 321.5, y: 206}
+      - {x: 321.5, y: 190}
+      - {x: 323.5, y: 188}
+      - {x: 339.5, y: 188}
+      - {x: 341.5, y: 190}
+      - {x: 341.5, y: 206}
+      - {x: 339.5, y: 208}
+    - - {x: 342.5, y: 208}
+      - {x: 342.5, y: 190}
+      - {x: 344.5, y: 188}
+      - {x: 360.5, y: 188}
+      - {x: 362.5, y: 190}
+      - {x: 361.5, y: 206}
+      - {x: 361.5, y: 208}
+    - - {x: -134.5, y: 229}
+      - {x: -136.5, y: 227}
+      - {x: -136.5, y: 211}
+      - {x: -134.5, y: 209}
+      - {x: -120.5, y: 209}
+      - {x: -118.5, y: 211}
+      - {x: -118.5, y: 227}
+      - {x: -120.5, y: 229}
+    - - {x: -115.5, y: 229}
+      - {x: -117.5, y: 227}
+      - {x: -117.5, y: 211}
+      - {x: -115.5, y: 209}
+      - {x: -83.5, y: 209}
+      - {x: -81.5, y: 211}
+      - {x: -81.5, y: 227}
+      - {x: -83.5, y: 229}
+    - - {x: -78.5, y: 229}
+      - {x: -80.5, y: 227}
+      - {x: -80.5, y: 211}
+      - {x: -78.5, y: 209}
+      - {x: -46.5, y: 209}
+      - {x: -44.5, y: 211}
+      - {x: -44.5, y: 227}
+      - {x: -46.5, y: 229}
+    - - {x: -41.5, y: 229}
+      - {x: -43.5, y: 227}
+      - {x: -43.5, y: 211}
+      - {x: -41.5, y: 209}
+      - {x: -27.5, y: 209}
+      - {x: -25.5, y: 211}
+      - {x: -25.5, y: 227}
+      - {x: -27.5, y: 229}
+    - - {x: -19.5, y: 229}
+      - {x: -21.5, y: 227}
+      - {x: -21.5, y: 211}
+      - {x: -19.5, y: 209}
+      - {x: 10.5, y: 209}
+      - {x: 12.5, y: 211}
+      - {x: 12.5, y: 227}
+      - {x: 10.5, y: 229}
+    - - {x: 303.5, y: 229}
+      - {x: 301.5, y: 227}
+      - {x: 301.5, y: 211}
+      - {x: 303.5, y: 209}
+      - {x: 318.5, y: 209}
+      - {x: 320.5, y: 211}
+      - {x: 320.5, y: 227}
+      - {x: 318.5, y: 229}
+    - - {x: 323.5, y: 229}
+      - {x: 321.5, y: 227}
+      - {x: 321.5, y: 211}
+      - {x: 323.5, y: 209}
+      - {x: 339.5, y: 209}
+      - {x: 341.5, y: 211}
+      - {x: 341.5, y: 227}
+      - {x: 339.5, y: 229}
+    - - {x: 344.5, y: 229}
+      - {x: 342.5, y: 227}
+      - {x: 342.5, y: 211}
+      - {x: 344.5, y: 209}
+      - {x: 359.5, y: 209}
+      - {x: 361.5, y: 211}
+      - {x: 361.5, y: 227}
+      - {x: 359.5, y: 229}
+    - - {x: 366.5, y: 229}
+      - {x: 364.5, y: 227}
+      - {x: 364.5, y: 211}
+      - {x: 366.5, y: 209}
+      - {x: 396.5, y: 209}
+      - {x: 398.5, y: 211}
+      - {x: 398.5, y: 227}
+      - {x: 396.5, y: 229}
+    - - {x: -138.5, y: 249}
+      - {x: -138.5, y: 233}
+      - {x: -137.5, y: 230}
+      - {x: -120.5, y: 230}
+      - {x: -118.5, y: 232}
+      - {x: -118.5, y: 249}
+    - - {x: -116.5, y: 249}
+      - {x: -117.5, y: 248}
+      - {x: -117.5, y: 232}
+      - {x: -115.5, y: 230}
+      - {x: -83.5, y: 230}
+      - {x: -81.5, y: 232}
+      - {x: -81.5, y: 248}
+      - {x: -82.5, y: 249}
+    - - {x: -79.5, y: 249}
+      - {x: -80.5, y: 248}
+      - {x: -80.5, y: 232}
+      - {x: -78.5, y: 230}
+      - {x: -46.5, y: 230}
+      - {x: -44.5, y: 232}
+      - {x: -44.5, y: 248}
+      - {x: -45.5, y: 249}
+    - - {x: -43.5, y: 249}
+      - {x: -43.5, y: 232}
+      - {x: -41.5, y: 230}
+      - {x: -25.5, y: 230}
+      - {x: -23.5, y: 233}
+      - {x: -23.5, y: 246}
+      - {x: -24.5, y: 249}
+    - - {x: -22.5, y: 249}
+      - {x: -22.5, y: 231}
+      - {x: -21.5, y: 230}
+      - {x: 13.5, y: 230}
+      - {x: 13.5, y: 249}
+    - - {x: 300.5, y: 249}
+      - {x: 300.5, y: 231}
+      - {x: 303.5, y: 230}
+      - {x: 318.5, y: 230}
+      - {x: 320.5, y: 232}
+      - {x: 320.5, y: 248}
+      - {x: 319.5, y: 249}
+    - - {x: 322.5, y: 249}
+      - {x: 321.5, y: 248}
+      - {x: 321.5, y: 232}
+      - {x: 323.5, y: 230}
+      - {x: 339.5, y: 230}
+      - {x: 341.5, y: 232}
+      - {x: 341.5, y: 248}
+      - {x: 340.5, y: 249}
+    - - {x: 342.5, y: 249}
+      - {x: 342.5, y: 231}
+      - {x: 344.5, y: 230}
+      - {x: 359.5, y: 230}
+      - {x: 362.5, y: 231}
+      - {x: 362.5, y: 249}
+    - - {x: 363.5, y: 249}
+      - {x: 363.5, y: 231}
+      - {x: 364.5, y: 230}
+      - {x: 398.5, y: 230}
+      - {x: 398.5, y: 249}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
